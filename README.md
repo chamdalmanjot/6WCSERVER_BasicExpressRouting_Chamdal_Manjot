@@ -19,4 +19,8 @@ Open http://localhost:3000
 
 Each page visit logs `Rendering <file>` in the terminal.
 
-Photos: Unsplash / Pexels
+Photos: Pinterest / Pngtree
+
+
+## Author
+Chamdal, Manjot WD-303
